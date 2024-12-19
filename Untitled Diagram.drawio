@@ -1,69 +1,9 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
-  <diagram name="Page-1" id="MpPFSm1jJllP3yzLE6qJ">
-    <mxGraphModel dx="2256" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Page-1" id="F9hwOQUiH9hTOszFXDq5">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="j3YQyV-6gQJIEPiUulcD-1" value="mulai&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="210" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="j3YQyV-6gQJIEPiUulcD-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j3YQyV-6gQJIEPiUulcD-1" target="j3YQyV-6gQJIEPiUulcD-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="270" as="sourcePoint" />
-            <mxPoint x="400" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="j3YQyV-6gQJIEPiUulcD-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j3YQyV-6gQJIEPiUulcD-4" target="j3YQyV-6gQJIEPiUulcD-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="j3YQyV-6gQJIEPiUulcD-4" value="Menu:&lt;div&gt;&lt;div&gt;1. Tambah Menu&lt;/div&gt;&lt;div&gt;2. Hapus Menu&lt;/div&gt;&lt;div&gt;3. Perbarui Menu&lt;/div&gt;&lt;div&gt;4. Lihat Menu&lt;/div&gt;&lt;div&gt;5. Cari Menu&lt;/div&gt;&lt;div&gt;6. Pilih Menu Berdasarkan Kategori&lt;/div&gt;&lt;div&gt;7. Keluar&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="330" width="280" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="j3YQyV-6gQJIEPiUulcD-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j3YQyV-6gQJIEPiUulcD-6" target="j3YQyV-6gQJIEPiUulcD-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="j3YQyV-6gQJIEPiUulcD-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j3YQyV-6gQJIEPiUulcD-6" target="j3YQyV-6gQJIEPiUulcD-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="j3YQyV-6gQJIEPiUulcD-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j3YQyV-6gQJIEPiUulcD-6" target="j3YQyV-6gQJIEPiUulcD-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="j3YQyV-6gQJIEPiUulcD-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j3YQyV-6gQJIEPiUulcD-6" target="j3YQyV-6gQJIEPiUulcD-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="j3YQyV-6gQJIEPiUulcD-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j3YQyV-6gQJIEPiUulcD-6" target="j3YQyV-6gQJIEPiUulcD-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="j3YQyV-6gQJIEPiUulcD-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j3YQyV-6gQJIEPiUulcD-6" target="j3YQyV-6gQJIEPiUulcD-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="j3YQyV-6gQJIEPiUulcD-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j3YQyV-6gQJIEPiUulcD-6" target="j3YQyV-6gQJIEPiUulcD-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="j3YQyV-6gQJIEPiUulcD-6" value="Pilih Opsi Mneu:" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="575" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="j3YQyV-6gQJIEPiUulcD-8" value="(1)&lt;div&gt;Buat Menu Baru&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="730" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="j3YQyV-6gQJIEPiUulcD-10" value="(2)&lt;div&gt;Hapus menu Yang Sudah Ada&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="730" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="j3YQyV-6gQJIEPiUulcD-12" value="(5)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="730" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="j3YQyV-6gQJIEPiUulcD-14" value="(3)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="715" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="j3YQyV-6gQJIEPiUulcD-17" value="(4)&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="740" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="j3YQyV-6gQJIEPiUulcD-20" value="(6)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="750" y="760" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="j3YQyV-6gQJIEPiUulcD-22" value="(7)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="970" y="750" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
