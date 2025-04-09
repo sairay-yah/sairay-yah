@@ -1,6 +1,4 @@
-👋 Hi, It's ME, RARAWR!!
-
-<!---
-sairay-yah/sairay-yah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+RARAA
+Connect here with me
+instagram.com/__.alaafiyah.__/
+https://www.linkedin.com/in/syakira-al-aafiyah/
